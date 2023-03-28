@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__isaiassantos/)
 
 ![Isaias GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiassousa032&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiassousa032&layout=compact)](https://github.com/isaiassousa032/github-readme-stats)
 
 ### Tecnologias
 
@@ -14,6 +15,7 @@
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 </div><br>
+
 
 Estudante de Análise e Desenvolvimento de Sistemas. 
 
