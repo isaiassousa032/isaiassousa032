@@ -14,7 +14,12 @@
 <div>
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
+    <img align="center" alt="SQL-Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-                   badge&logo=microsoft-sql-server&logoColor=white"></img>
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></img>
+    
 </div><br>
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
