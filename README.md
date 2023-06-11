@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__isaiassantos/)
 
 ![Isaias GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiassousa032&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiassousa032&layout=demo&theme=radical)](https://github.com/isaiassousa032/github-readme-stats)
 
 ### Tecnologias
 
