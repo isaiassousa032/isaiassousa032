@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=898989&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isaias+Santos;I'm+27+years+old;I'm+from+Brazil;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Be+Welcome!✌️;Data+Analyst👨🏻‍💻)](https://git.io/typing-svg)
